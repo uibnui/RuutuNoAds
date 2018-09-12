@@ -22,4 +22,4 @@ Used and tested with Google Chrome might work with Firefox too.
 
 ## Disclaimer
 
-This is not some very hack thing, take look of the javascript code.
+This is not some very hacky thing, take look of the javascript code.
