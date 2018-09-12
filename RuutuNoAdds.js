@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         RuutuNoAdds
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
+// @namespace    https://github.com/uibnui/RuutuNoAds
+// @version      1
+// @description  Ruutu with no adds
 // @author       uibnui
 // @match        https://www.ruutu.fi/video/*
 // @grant        GM_openInTab
