@@ -14,7 +14,7 @@ Used and tested with Google Chrome might work with Firefox too.
 6. Go to Ruutu.fi, pick what you want to see. Page should be like https://www.ruutu.fi/video/XXXXXXX
 7. Script should start automatically, but if not reload the page.
 
-## Restictions
+## Restrictions
 
 - Does not work with live.
 - Works most of the Ruutu+ content, meaning you can watch them without account.
