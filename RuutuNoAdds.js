@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         RuutuNoAdds
+// @name         RuutuNoAds
 // @namespace    https://github.com/uibnui/RuutuNoAds
 // @version      1
-// @description  Ruutu with no adds
+// @description  Ruutu with no ads
 // @author       uibnui
 // @match        https://www.ruutu.fi/video/*
 // @grant        GM_openInTab
