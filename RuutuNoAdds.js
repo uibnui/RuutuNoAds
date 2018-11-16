@@ -15,7 +15,7 @@ function videoID(url)
     return url.slice((pos+7));
 }
 var id = videoID(window.location.href);
-var xml = "https://gatling.ruutu.fi/media-xml-cache?id=" + id;
+var xml = "https://gatling.nelonenmedia.fi/media-xml-cache?id=" + id;
 var xmlHttp = new XMLHttpRequest();
 xmlHttp.open( "GET", xml, false ); // false for synchronous request
 xmlHttp.send( null );
