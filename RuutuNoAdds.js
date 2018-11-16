@@ -20,7 +20,7 @@ var xmlHttp = new XMLHttpRequest();
 xmlHttp.open( "GET", xml, false ); // false for synchronous request
 xmlHttp.send( null );
 var parser = new DOMParser();
-xmlDoc = parser.parseFromString(xmlHttp.response,"text/xml");
+var xmlDoc = parser.parseFromString(xmlHttp.response,"text/xml");
 var node = xmlDoc.getElementsByTagName('CastMediaFile')[0].childNodes[0].nodeValue;
 console.log(node);
 //Change comment to window.location if you want video to open in new tab
